@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+header {
+	background-color: #eebb44;
+	margin-bottom: 40px;
+}
+
+img {
+	max-width: 300px;
+}
+
+h4, p {
+	padding-left: 10px;
+}
+
+.content {
+	max-width: 300px;
+	border: 1px solid gray;
+	margin-bottom: 20px;
+}
